@@ -4,7 +4,9 @@
 **runnily/runnily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-![Me](https://github.com/runnily/runnily/blob/main/IMG_9848.png?raw=true "Title")
+<p align="center">
+  <img src="IMG_9848.png" width="350" title="hover text">
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
