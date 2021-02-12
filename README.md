@@ -8,6 +8,7 @@
   <img src="imgonline-com-ua-CompressToSize-N03nR6getMP85mO.jpg" width="350" title="hover text">
 </p>
 
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
