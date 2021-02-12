@@ -5,7 +5,8 @@
 
 
 <p align="center">
-  <img src="IMG_9848.png" width="350" title="hover text">
+  <img src="imgonline-com-ua-CompressToSize-N03nR6getMP85mO.jpg
+Go to file" width="350" title="hover text">
 </p>
 
 - 🔭 I’m currently working on ...
